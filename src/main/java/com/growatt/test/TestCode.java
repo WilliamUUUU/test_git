@@ -8,5 +8,7 @@ public class TestCode
         System.out.println("i = " + i);
         int j = 11;
         System.out.println("j = " + j);
+        int k = 12;
+        System.out.println("k = " + k);
     }
 }
