@@ -10,5 +10,7 @@ public class TestCode
         System.out.println("j = " + j);
         int k = 12;
         System.out.println("k = " + k);
+        int l = 13;
+        System.out.println("l = " + l);
     }
 }
