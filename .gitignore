@@ -7,3 +7,7 @@
 /dataSources/
 /dataSources.local.xml
 /.idea/
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
