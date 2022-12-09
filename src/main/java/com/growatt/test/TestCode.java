@@ -6,5 +6,7 @@ public class TestCode
     {
         int i = 10;
         System.out.println("i = " + i);
+        int j = 11;
+        System.out.println("j = " + j);
     }
 }
